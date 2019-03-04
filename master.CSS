@@ -1,0 +1,38 @@
+body {
+  font-family: monospace;
+  color: blue;
+}
+
+em#markup {
+    background-color: blue;
+    color: white;
+}
+.adsf {
+  background-color: blue
+  color: white
+font-family: monospace
+
+}
+
+.faktsboks{
+  background-color: lightblue;
+  margin:2em;
+  padding: 2em;
+  color: blue;
+  border: 5px solid lightgray;
+}
+
+Em:hover {
+font-size: 2em
+
+}
+
+.efterskole{
+  color: lightblue;
+
+}
+
+.minfar {
+  margin-left: 1em;
+  float: right;
+}
